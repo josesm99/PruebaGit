@@ -22,8 +22,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting(" quintocambiomain")
-                    Greeting("Jose perez")
+                    Greeting(" sextocambiomain")
+                    Greeting("Jose manrique perez")
                 }
             }
         }
